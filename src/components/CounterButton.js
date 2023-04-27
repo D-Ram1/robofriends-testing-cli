@@ -27,4 +27,4 @@ class CounterButton extends Component {
   }
 }
 
-export default CounterButton
+export default CounterButton;
